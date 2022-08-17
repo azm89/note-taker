@@ -10,7 +10,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "uuid": "^8.3.0",
     "v1": "^1.0.0",
     "v4": "0.0.1"
