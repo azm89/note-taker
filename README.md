@@ -1,6 +1,13 @@
 
 
   # note-taker
+
+   # Table of Contents 
+  * [Installation](#-Installation)
+  * [Usage](#-Usage)
+  * [License](#-License)
+  * [Contributing](#-Contributing)
+  * [Contact](#-Contact-Information)
   
   # Description
   A team profile generator built with Javascript, HTML, and NODE.js. It will prompt the user for relevant information for a manager, any engineers or interns, applies it to the markdown template, which it then writes to a index.html file in the 'dist' folder.
@@ -10,22 +17,6 @@
 
   # Demonstration
 
-  
-
-  
-
-
-
-
-
-
-  # Table of Contents 
-  * [Installation](#-Installation)
-  * [Usage](#-Usage)
-  * [License](#-License)
-  * [Contributing](#-Contributing)
-  * [Contact](#-Contact-Information)
-      
   # Installation
   To install necessary dependencies, run the command 'npm i'.
   
